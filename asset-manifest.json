@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UCF-GaiM/dig4639-s23-main-Murrmaid4/tree/main/unit1/lab6/static/css/main.c253a9f8.css",
+    "main.js": "/UCF-GaiM/dig4639-s23-main-Murrmaid4/tree/main/unit1/lab6/static/js/main.539aaa43.js",
+    "static/js/787.aff71482.chunk.js": "/UCF-GaiM/dig4639-s23-main-Murrmaid4/tree/main/unit1/lab6/static/js/787.aff71482.chunk.js",
+    "index.html": "/UCF-GaiM/dig4639-s23-main-Murrmaid4/tree/main/unit1/lab6/index.html",
+    "main.c253a9f8.css.map": "/UCF-GaiM/dig4639-s23-main-Murrmaid4/tree/main/unit1/lab6/static/css/main.c253a9f8.css.map",
+    "main.539aaa43.js.map": "/UCF-GaiM/dig4639-s23-main-Murrmaid4/tree/main/unit1/lab6/static/js/main.539aaa43.js.map",
+    "787.aff71482.chunk.js.map": "/UCF-GaiM/dig4639-s23-main-Murrmaid4/tree/main/unit1/lab6/static/js/787.aff71482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c253a9f8.css",
+    "static/js/main.539aaa43.js"
+  ]
+}
