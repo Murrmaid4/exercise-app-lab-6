@@ -1,0 +1,17 @@
+.counter{
+    text-align: center;
+    font-size: 42px;
+    color: white;
+}
+
+
+.counter-btn{
+    background-color: transparent !important;
+    font-size: 36px;
+
+}
+.count-btns {
+    text-align: center;
+   
+    margin-top: 25px;
+}

@@ -1,0 +1,38 @@
+.Control-Buttons {
+    margin: 3rem 0;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+   
+
+.btn-grp {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: 600;
+    
+}
+
+.btn {
+    
+    width: 10vw;
+    height: 5vh;
+    border-radius:  4px;
+    margin: 0px 6px;
+    display: flex;
+    border: 2px solid #C270CC;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+    
+}
+
+.btn-one {
+    background-color: #C270CC;
+font-weight: 600;
+    
+}
