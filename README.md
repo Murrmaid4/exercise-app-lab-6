@@ -42,13 +42,5 @@ This application is published to github-pages, so click the deployment link to a
 
 The tech used on this project include React, React Hooks, JSX.
 
-## Contributing
- 
-
-## Images
-
- 
-## Tests
-  
 
  
